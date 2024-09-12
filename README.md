@@ -1,8 +1,3 @@
-To create a `README.md` file for your project, follow these instructions. This `README.md` will describe the purpose of the project, how to set it up, and how to use it.
-
-Here’s an example of what your `README.md` might look like:
-
-```markdown
 # Vulnerability Scanner
 
 ## Overview
