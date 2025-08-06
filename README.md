@@ -19,7 +19,7 @@ Ensure you have Python 3.x installed. You will also need to install the required
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SQLInjectionTool_GUI
+   git clone https://github.com/vedantkulkarni1234/SQLInjectionTool_GUI.git
    ```
 
 2. Navigate to the project directory:
